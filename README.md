@@ -1,5 +1,5 @@
 # CNN-Hyperparameter-optimization
-## Designing, training and optimizing CNN
+## Designing, training and optimizing MLP NN
 
 This project is an assignment made in the context of my Master studies
 
@@ -21,5 +21,6 @@ Fashion-MNIST dataset (source : https://github.com/zalandoresearch/fashion-mnist
 * Test set : 1000
 
 
-### Method used 
+### Roadmap
 
+1) fe
