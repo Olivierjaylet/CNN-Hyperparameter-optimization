@@ -23,4 +23,10 @@ Fashion-MNIST dataset (source : https://github.com/zalandoresearch/fashion-mnist
 
 ### Roadmap
 
-1) fe
+1) Data preprocessing
+2) Data augmentation
+3) Make the NN flexible to efficiently swipe hyper paramters
+4) Searching fot the best Hyper-parameters
+      - Preprocess Wandb
+      - Run four times Wandb. At each run, re adjust Hyper-parameters according to last run results
+5) Evaluate the final model
